@@ -1,0 +1,32 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d5263305a27674dfdb175f7b5deed8dd
+# Starting compiling UnityEngine.UI.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d3cd8c6f095a34f35a795f4a7df5c4da
+# Starting compiling UnityEditor.TestRunner.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-def1d03179f154669b3109d397636eb8
+# Starting compiling UnityEditor.UI.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ac9bd05fb1073445380b75e9c3922ec2
+# Starting compiling Unity.VSCode.Editor.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-903841e6767474dc9ac6ed78fb77042d
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-541cb35e3939e410b90df4c210cd8ea1
+# Starting compiling Unity.Timeline.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d0aedb1cbcc084400aadc731494437a8
+# Starting compiling Unity.TextMeshPro.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-55e5a5f1cb869498295d0a5113715808
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9e82c5322d5c142ce95ed0855227dcd5
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-78239b08042ee489da7a0a35bdceb1c8
+# Starting compiling Unity.Rider.Editor.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fad3dedf5ebea46fcb0b4dae346ddeff
+# Starting compiling Ludiq.PeekCore.Runtime.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a9b09897efd2a482e84fb0d6ae8a7db3
+# Starting compiling Unity.Timeline.Editor.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bb89d7a96cd5e44c5a09068133ed8388
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-48d2246c91f614819970b4450ece67a4
+# Starting compiling Ludiq.PeekCore.Editor.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-903a7c35ccd6a4f34ab9ad793574d3b5
+# Starting compiling Ludiq.Peek.Editor.dll
+/Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2e30d03ae7eaf4a2c82dfe94c9940217
