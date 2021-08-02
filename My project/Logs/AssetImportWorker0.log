@@ -1,0 +1,1075 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 16318 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Document/GitHub/Unity-Shader/My project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55647
+Successfully changed project path to: E:/Document/GitHub/Unity-Shader/My project
+E:/Document/GitHub/Unity-Shader/My project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Document/GitHub/Unity-Shader/My project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.14.7141
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002361 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 23.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.040 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000529 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.6 MB.
+System memory in use after: 58.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1567.
+Total: 1.885500 ms (FindLiveObjects: 0.274400 ms CreateObjectMapping: 0.122200 ms MarkObjects: 1.414300 ms  DeleteObjects: 0.072900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/L5/Backgound.mat
+  artifactKey: Guid(075e1b990873ec840a1572ce05571226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/Backgound.mat using Guid(075e1b990873ec840a1572ce05571226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c0681260c34beba150ed3fce4142b3') in 0.140680 seconds
+  Import took 0.143157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/L5/L5.mat
+  artifactKey: Guid(d714613348ea7164cbee4e8dbe2f0a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5.mat using Guid(d714613348ea7164cbee4e8dbe2f0a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3408cf4a004e1efb4eda64a1c3b0a83') in 0.023119 seconds
+  Import took 0.025204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/L5/Materials
+  artifactKey: Guid(7bc56d24f67efa04abd2b46093f175cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/Materials using Guid(7bc56d24f67efa04abd2b46093f175cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2c3b1d0c1c127b5729fecb64ab23bd') in 0.004665 seconds
+  Import took 0.006882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001333 seconds.
+  path: Assets/L5/Materials/New Material.mat
+  artifactKey: Guid(f2d3a6ab7e678ae46a4f6e9603258509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/Materials/New Material.mat using Guid(f2d3a6ab7e678ae46a4f6e9603258509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8fb5356f8192811b9f81e1dd8f6a69c') in 0.024414 seconds
+  Import took 0.029004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 171.879849 seconds.
+  path: Assets/Metal textures pack/pattern 15/diffuse.tga
+  artifactKey: Guid(c40ac26082adae24086256c592c59374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 15/diffuse.tga using Guid(c40ac26082adae24086256c592c59374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a8a0720f5707afcc2b72921fd55232a') in 0.034330 seconds
+  Import took 0.036851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Metal textures pack/pattern 22/diffuse.tga
+  artifactKey: Guid(e6629a4996f3f464da8a21d254db36c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 22/diffuse.tga using Guid(e6629a4996f3f464da8a21d254db36c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f67ebbafb38d566bee7721beb0fbc502') in 0.011409 seconds
+  Import took 0.014282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Metal textures pack/pattern 09/diffuse.tga
+  artifactKey: Guid(6d53ca9cfef8b0b479fba9012da932fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 09/diffuse.tga using Guid(6d53ca9cfef8b0b479fba9012da932fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc88e86e9026516dd8979fd54e144c88') in 0.010324 seconds
+  Import took 0.015058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Metal textures pack/pattern 08/diffuse.tga
+  artifactKey: Guid(f56715d8e1e00b5438534a740460c2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 08/diffuse.tga using Guid(f56715d8e1e00b5438534a740460c2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720a1f00f94c7f037319ff5898dca55d') in 0.013028 seconds
+  Import took 0.015890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Metal textures pack/pattern 38/diffuse.tga
+  artifactKey: Guid(0d86ce144395b87488381b16a2faabe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 38/diffuse.tga using Guid(0d86ce144395b87488381b16a2faabe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb5170bf7333da7c7363760793537a7') in 0.012297 seconds
+  Import took 0.015298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Metal textures pack/pattern 11/diffuse.tga
+  artifactKey: Guid(c394fa4c7e56a4d468c742376069957b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 11/diffuse.tga using Guid(c394fa4c7e56a4d468c742376069957b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff41a0a3a769501a64b3937a6df13c4') in 0.009823 seconds
+  Import took 0.012396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Metal textures pack/pattern 31/diffuse.tga
+  artifactKey: Guid(3d40b4f6e5a21d64ca20c4cda676a4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 31/diffuse.tga using Guid(3d40b4f6e5a21d64ca20c4cda676a4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258a2d3cf480752d0b9a4819bb55a313') in 0.020803 seconds
+  Import took 0.023402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Metal textures pack/pattern 25/diffuse.tga
+  artifactKey: Guid(cb5e449853b0f7641a6d874a4059e2f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 25/diffuse.tga using Guid(cb5e449853b0f7641a6d874a4059e2f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff92b8793e2ba06beed8c9053dae047f') in 0.011418 seconds
+  Import took 0.014019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Metal textures pack/pattern 34/diffuse.tga
+  artifactKey: Guid(0d112add9ddeb27458ef3c8d7468eebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 34/diffuse.tga using Guid(0d112add9ddeb27458ef3c8d7468eebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6dd02322f974e8146e8647b7af39fe') in 0.012366 seconds
+  Import took 0.014990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/Metal textures pack/pattern 35/diffuse.tga
+  artifactKey: Guid(c8176da20792ff1489489efb5b236897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 35/diffuse.tga using Guid(c8176da20792ff1489489efb5b236897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97aa071f5fca2090545d1376b248e607') in 0.013943 seconds
+  Import took 0.016274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Metal textures pack/pattern 24/diffuse.tga
+  artifactKey: Guid(deff49745631c2d4eaf512af939c3880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 24/diffuse.tga using Guid(deff49745631c2d4eaf512af939c3880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6315ce721a14eceba7daca4f7ac43c') in 0.009293 seconds
+  Import took 0.012044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Metal textures pack/pattern 18/diffuse.tga
+  artifactKey: Guid(535139359b79ffd4490d5e0982955140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 18/diffuse.tga using Guid(535139359b79ffd4490d5e0982955140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e05e83a7aac6a60716ece6bd92c49895') in 0.012918 seconds
+  Import took 0.015223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Metal textures pack/pattern 39/diffuse.tga
+  artifactKey: Guid(d718a1c3d8c6a914680f49974e638f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 39/diffuse.tga using Guid(d718a1c3d8c6a914680f49974e638f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '127cee0f2dedb97da05d29ac99ae1fd8') in 0.014202 seconds
+  Import took 0.016620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Metal textures pack/pattern 21/diffuse.tga
+  artifactKey: Guid(222cb6744dc3c3d40b823d7d8cd539f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 21/diffuse.tga using Guid(222cb6744dc3c3d40b823d7d8cd539f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d6a288e4e864bf2a1b25ba7c75ceacd') in 0.016835 seconds
+  Import took 0.018983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Metal textures pack/pattern 16/diffuse.tga
+  artifactKey: Guid(d3716d3d733920c4f8eea0fdd5342c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 16/diffuse.tga using Guid(d3716d3d733920c4f8eea0fdd5342c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e32ca7ade9abbc04ebc05e0e8e6a4b9c') in 0.010599 seconds
+  Import took 0.012777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Metal textures pack/pattern 36/diffuse.tga
+  artifactKey: Guid(768951b5149dfca4598f7c1101a9cd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 36/diffuse.tga using Guid(768951b5149dfca4598f7c1101a9cd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c59ea1bcf6850351a7a825e0a73587') in 0.016481 seconds
+  Import took 0.018688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Metal textures pack/pattern 12/diffuse.tga
+  artifactKey: Guid(0e70c78fbd965c3428cdb2350ec9824e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 12/diffuse.tga using Guid(0e70c78fbd965c3428cdb2350ec9824e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c6eebded3d329a0aa4d860e7dc90e8') in 0.015462 seconds
+  Import took 0.017580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Metal textures pack/pattern 23/diffuse.tga
+  artifactKey: Guid(1c4c2594ab7119c48a2246bda9ba46d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 23/diffuse.tga using Guid(1c4c2594ab7119c48a2246bda9ba46d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e52636195fc2e0b0f32b493d9ffbfbf') in 0.009731 seconds
+  Import took 0.015144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Metal textures pack/pattern 10/diffuse.tga
+  artifactKey: Guid(53f40d9437aab914baedc049c252966a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 10/diffuse.tga using Guid(53f40d9437aab914baedc049c252966a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33bfed8d5ac63e95a91a6447effd679b') in 0.012362 seconds
+  Import took 0.016004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Metal textures pack/pattern 13/diffuse.tga
+  artifactKey: Guid(d1160e9cc51971e4284ec3d3c65c937e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 13/diffuse.tga using Guid(d1160e9cc51971e4284ec3d3c65c937e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '168308bd01540f79c3a182de119af104') in 0.009143 seconds
+  Import took 0.013572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Metal textures pack/pattern 37/diffuse.tga
+  artifactKey: Guid(915dc183c9f3db244bac6fcb817f2476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 37/diffuse.tga using Guid(915dc183c9f3db244bac6fcb817f2476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63341b12ec9c1285ceda98a081006975') in 0.006564 seconds
+  Import took 0.008588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Metal textures pack/pattern 20/diffuse.tga
+  artifactKey: Guid(c6a84abe644534241bb4d4c93878fb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 20/diffuse.tga using Guid(c6a84abe644534241bb4d4c93878fb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8735f66799e94a9eb871e1b31a69a7f') in 0.007270 seconds
+  Import took 0.009395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Metal textures pack/pattern 17/diffuse.tga
+  artifactKey: Guid(31e7ef16a03d6664a89af4f8fbf40b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 17/diffuse.tga using Guid(31e7ef16a03d6664a89af4f8fbf40b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de7a68b0ba3f856ee92fb0304cb82fe') in 0.006268 seconds
+  Import took 0.008145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Metal textures pack/pattern 26/diffuse.tga
+  artifactKey: Guid(5465a7c98972bc641aef9294cf74175d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 26/diffuse.tga using Guid(5465a7c98972bc641aef9294cf74175d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8bedbdd0ed72c69f7da6b04747ccef') in 0.006098 seconds
+  Import took 0.007950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Metal textures pack/pattern 14/diffuse.tga
+  artifactKey: Guid(e372f59d0c1843d468893e7b14c12aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 14/diffuse.tga using Guid(e372f59d0c1843d468893e7b14c12aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2625b2eb304279d72a387982c36afd0') in 0.006397 seconds
+  Import took 0.008247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.486211 seconds.
+  path: Assets/Metal textures pack/pattern 19/diffuse.tga
+  artifactKey: Guid(943dc7f902136b942809f7902577ef7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 19/diffuse.tga using Guid(943dc7f902136b942809f7902577ef7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae5b0a259faf095ce31bcf48519569c') in 0.008608 seconds
+  Import took 0.010790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Metal textures pack/pattern 07/diffuse.tga
+  artifactKey: Guid(b9a5a37bd02dbb245becc695cafeb9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 07/diffuse.tga using Guid(b9a5a37bd02dbb245becc695cafeb9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96694336c670684e45600bf9dfbdfdd') in 0.008876 seconds
+  Import took 0.011910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Metal textures pack/pattern 42/diffuse.tga
+  artifactKey: Guid(2f74a631c5a05634f8c37e6879204e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 42/diffuse.tga using Guid(2f74a631c5a05634f8c37e6879204e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe2b2deffcbf8da04615f7e58eead58e') in 0.011362 seconds
+  Import took 0.013460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025929 seconds.
+  path: Assets/Metal textures pack/pattern 30/diffuse.tga
+  artifactKey: Guid(cf54ca3e7acb32d4693f50824fc13fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 30/diffuse.tga using Guid(cf54ca3e7acb32d4693f50824fc13fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0218cc04c605098d07a4844d46bc28b2') in 0.009440 seconds
+  Import took 0.011916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Metal textures pack/pattern 32/diffuse.tga
+  artifactKey: Guid(0d1a2eb5ea6321141ad4f46c8a24bb58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 32/diffuse.tga using Guid(0d1a2eb5ea6321141ad4f46c8a24bb58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '386c1cec349cec568d73642ddcb415cb') in 0.011255 seconds
+  Import took 0.013391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Metal textures pack/pattern 29/diffuse.tga
+  artifactKey: Guid(3e1fdc47833902e45a7d1beab6c83b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 29/diffuse.tga using Guid(3e1fdc47833902e45a7d1beab6c83b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f9e7962f60a46a081b1153cdc1b6be') in 0.011196 seconds
+  Import took 0.013770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Metal textures pack/pattern 41/diffuse.tga
+  artifactKey: Guid(d9e8a14c6d54ad4418847e9c7620f654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 41/diffuse.tga using Guid(d9e8a14c6d54ad4418847e9c7620f654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '719fbbed2b4de00570824b8ebdd5c534') in 0.011155 seconds
+  Import took 0.013436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004261 seconds.
+  path: Assets/Metal textures pack/pattern 29/diffuse.tga
+  artifactKey: Guid(3e1fdc47833902e45a7d1beab6c83b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 29/diffuse.tga using Guid(3e1fdc47833902e45a7d1beab6c83b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f9e7962f60a46a081b1153cdc1b6be') in 0.010271 seconds
+  Import took 0.013448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.502484 seconds.
+  path: Assets/L5/L5.tga
+  artifactKey: Guid(69d2a602947c3314eb28a1add8ac7a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5.tga using Guid(69d2a602947c3314eb28a1add8ac7a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16f1dd784152d86b5bac1d9664c209d5') in 0.015425 seconds
+  Import took 0.017906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.938708 seconds.
+  path: Assets/Metal textures pack/pattern 16/glow.tga
+  artifactKey: Guid(6786ba5d6e0e0ee4a90fefab37d395b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 16/glow.tga using Guid(6786ba5d6e0e0ee4a90fefab37d395b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee4c693825e63e994d699a2af948765d') in 0.008402 seconds
+  Import took 0.010520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Metal textures pack/pattern 23/normal.tga
+  artifactKey: Guid(db37d706cdff6f1419734f1ab4ba58c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 23/normal.tga using Guid(db37d706cdff6f1419734f1ab4ba58c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53595b417ee379ec2e343f50f31fa11b') in 0.012797 seconds
+  Import took 0.014709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Metal textures pack/pattern 39/normal.tga
+  artifactKey: Guid(64664526bdd283346af4b7e7689734b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 39/normal.tga using Guid(64664526bdd283346af4b7e7689734b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bda9f76e1abe741d98a3c943da4d160') in 0.014366 seconds
+  Import took 0.016586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Metal textures pack/pattern 29/normal.tga
+  artifactKey: Guid(0159247c1edd6e04ba13df2d223c036a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 29/normal.tga using Guid(0159247c1edd6e04ba13df2d223c036a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe53da97a8ee8003ee30e2855da4edf') in 0.016352 seconds
+  Import took 0.018658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Metal textures pack/pattern 22/normal.tga
+  artifactKey: Guid(21d6849d2ae56cf4eaf3ebcd1ad22562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 22/normal.tga using Guid(21d6849d2ae56cf4eaf3ebcd1ad22562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22489dcc70c3db00a4d482deb1f90cdd') in 0.013016 seconds
+  Import took 0.015282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Metal textures pack/pattern 33/normal.tga
+  artifactKey: Guid(7cc55cec99e0c754a91dbea4fb1bfbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 33/normal.tga using Guid(7cc55cec99e0c754a91dbea4fb1bfbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75504f6a580210b446a2204bcde92c56') in 0.017932 seconds
+  Import took 0.020684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Metal textures pack/pattern 35/normal.tga
+  artifactKey: Guid(7b71942f10d916f4aad70f2bb888f184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 35/normal.tga using Guid(7b71942f10d916f4aad70f2bb888f184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c1289333aabbb042f54887778b460c6') in 0.011734 seconds
+  Import took 0.013676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Metal textures pack/pattern 31/normal.tga
+  artifactKey: Guid(bdbb6a502cfc83e41bb068241649b6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 31/normal.tga using Guid(bdbb6a502cfc83e41bb068241649b6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7bd7cc297e7557033e6c0d17540dfe') in 0.011345 seconds
+  Import took 0.013637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Metal textures pack/pattern 26/normal.tga
+  artifactKey: Guid(0848b713df0f4224691ee993dcd5a35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 26/normal.tga using Guid(0848b713df0f4224691ee993dcd5a35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73be73c6bdd9a7fb0b8a79a7a8d750c0') in 0.013165 seconds
+  Import took 0.015303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Metal textures pack/pattern 10/glow.tga
+  artifactKey: Guid(5bb7713729b60104bbda184606332827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 10/glow.tga using Guid(5bb7713729b60104bbda184606332827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b654926085bda34bc8a4d4e6965b55aa') in 0.017018 seconds
+  Import took 0.019117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Metal textures pack/pattern 25/normal.tga
+  artifactKey: Guid(eaf105a703de36148b9c360a9ba03e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 25/normal.tga using Guid(eaf105a703de36148b9c360a9ba03e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8c8bbc77c69125d17d1f59d5685cbb0') in 0.015097 seconds
+  Import took 0.017541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Metal textures pack/pattern 32/normal.tga
+  artifactKey: Guid(491117f52653f594b9a6c39436505dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 32/normal.tga using Guid(491117f52653f594b9a6c39436505dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '448b4133895e055b314af683e8d6c169') in 0.009253 seconds
+  Import took 0.011377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Metal textures pack/pattern 37/normal.tga
+  artifactKey: Guid(adc0960bcca23b14da719bdbee111681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 37/normal.tga using Guid(adc0960bcca23b14da719bdbee111681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b57c22368f959e6a4e49fab49594e136') in 0.013872 seconds
+  Import took 0.017336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Metal textures pack/pattern 30/normal.tga
+  artifactKey: Guid(abef4bb70b2ac9d4d88cf773aa70bbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 30/normal.tga using Guid(abef4bb70b2ac9d4d88cf773aa70bbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fefbaacced63f03324590137963b2df7') in 0.007584 seconds
+  Import took 0.010949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Metal textures pack/pattern 28/normal.tga
+  artifactKey: Guid(005a1d4e1062dd94587a2e0167cab73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 28/normal.tga using Guid(005a1d4e1062dd94587a2e0167cab73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aacaa472bd1069d377e5e0332ca3fac') in 0.009262 seconds
+  Import took 0.011218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Metal textures pack/pattern 24/normal.tga
+  artifactKey: Guid(cc9ff8eee97b16a4384de8db8b91ba80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 24/normal.tga using Guid(cc9ff8eee97b16a4384de8db8b91ba80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855105191d39fe393aa73b3089e98b50') in 0.009594 seconds
+  Import took 0.011857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Metal textures pack/pattern 34/normal.tga
+  artifactKey: Guid(5edc0f85ea81c164dbb31dd807e052e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 34/normal.tga using Guid(5edc0f85ea81c164dbb31dd807e052e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e05f2bd95a3a7e5779217b75e37b7dc7') in 0.009703 seconds
+  Import took 0.011828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Metal textures pack/pattern 38/normal.tga
+  artifactKey: Guid(555343e2364703a4a9141cb0d91087ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 38/normal.tga using Guid(555343e2364703a4a9141cb0d91087ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6c42f6f30b546d63698f9d3714638d') in 0.008511 seconds
+  Import took 0.011062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Metal textures pack/pattern 27/normal.tga
+  artifactKey: Guid(c9c68b26364a1d146948dac718db5760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 27/normal.tga using Guid(c9c68b26364a1d146948dac718db5760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae54723424b70c618acb55ec9ca8cd17') in 0.008557 seconds
+  Import took 0.011199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Metal textures pack/pattern 36/normal.tga
+  artifactKey: Guid(68797f3701751294c95968616a6c81c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 36/normal.tga using Guid(68797f3701751294c95968616a6c81c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f827a09d5a0197d8b7621b89e01be71') in 0.009667 seconds
+  Import took 0.011879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Metal textures pack/pattern 12/glow.tga
+  artifactKey: Guid(97c8e42712ab02e40a68c2a6d4c5c928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 12/glow.tga using Guid(97c8e42712ab02e40a68c2a6d4c5c928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5f0c703b8e78b5d0ede47acf84160a') in 0.008131 seconds
+  Import took 0.010224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Metal textures pack/pattern 40/normal.tga
+  artifactKey: Guid(5fbce6817cfe79f4b8169fdaf2b122f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 40/normal.tga using Guid(5fbce6817cfe79f4b8169fdaf2b122f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '456fa4a727de51614db1383e1b4d7048') in 0.006842 seconds
+  Import took 0.008901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.151719 seconds.
+  path: Assets/L5/Metal Texture.tga
+  artifactKey: Guid(69d2a602947c3314eb28a1add8ac7a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/Metal Texture.tga using Guid(69d2a602947c3314eb28a1add8ac7a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590fe97b2187bdea1a390d600917361f') in 0.011174 seconds
+  Import took 0.014515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 764.680888 seconds.
+  path: Assets/L5/L5.shader
+  artifactKey: Guid(2bafcfae3db07904194fa09865593ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5.shader using Guid(2bafcfae3db07904194fa09865593ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edbc1392417c878fd4c9328108835159') in 0.010433 seconds
+  Import took 0.012800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.767272 seconds.
+  path: Assets/L5/L5.shader
+  artifactKey: Guid(2bafcfae3db07904194fa09865593ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5.shader using Guid(2bafcfae3db07904194fa09865593ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45639b78a13f9a3d2208467e91446a24') in 0.010103 seconds
+  Import took 0.014363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1334.508104 seconds.
+  path: Assets/L5/L5.shader
+  artifactKey: Guid(2bafcfae3db07904194fa09865593ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5.shader using Guid(2bafcfae3db07904194fa09865593ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef972b0f6497bcb954907384a2b923b') in 0.006267 seconds
+  Import took 0.011386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3790.393606 seconds.
+  path: Assets/L5/L5.shader
+  artifactKey: Guid(2bafcfae3db07904194fa09865593ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5.shader using Guid(2bafcfae3db07904194fa09865593ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c9c2126709a0931392af9122e03df8') in 0.013657 seconds
+  Import took 0.048985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 322.973122 seconds.
+  path: Assets/L5/L5_Surface.shader
+  artifactKey: Guid(2bafcfae3db07904194fa09865593ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Surface.shader using Guid(2bafcfae3db07904194fa09865593ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f4a492bc34c41decde1a409b3a43c8') in 0.004639 seconds
+  Import took 0.007265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.183199 seconds.
+  path: Assets/L5/L5_.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2032cb53023d6a31f1fcff5af7a4ebbd') in 0.004460 seconds
+  Import took 0.006816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.782365 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d59e31af4a0d2262f89b0735159bdc1') in 0.005532 seconds
+  Import took 0.007956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.836530 seconds.
+  path: Assets/L5/New Render Texture.renderTexture
+  artifactKey: Guid(dd66b485d523aab418a86234ca91650f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/New Render Texture.renderTexture using Guid(dd66b485d523aab418a86234ca91650f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5a7f783f1d44883572227704c66d43') in 0.028468 seconds
+  Import took 0.030492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.294527 seconds.
+  path: Assets/L5/L5_Unlit.mat
+  artifactKey: Guid(3ae783e8942958140a73acfdbadac162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.mat using Guid(3ae783e8942958140a73acfdbadac162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aa5fcf1a0d4d5ad1a5f7c39830f6754') in 0.018665 seconds
+  Import took 0.020716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 162.463525 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e85fd9ca20525569c18e1616cc244e') in 0.006598 seconds
+  Import took 0.010445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.346327 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1320083e6032784e1922cfe8b3e0e8') in 0.006762 seconds
+  Import took 0.009424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1501.578295 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7502308b5c5848797962402141f7d11a') in 0.002990 seconds
+  Import took 0.005449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 236.225944 seconds.
+  path: Assets/Metal textures pack/pattern 04/diffuse.tga
+  artifactKey: Guid(555ee02ef69a5e34da1d4d961b7542af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 04/diffuse.tga using Guid(555ee02ef69a5e34da1d4d961b7542af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3fd3756ebbc25aa02adf4dfae4d918') in 0.012639 seconds
+  Import took 0.015728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Metal textures pack/pattern 40/diffuse.tga
+  artifactKey: Guid(f4fa2a42ef2f8e841a17fe2d2f6efb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 40/diffuse.tga using Guid(f4fa2a42ef2f8e841a17fe2d2f6efb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '499e260e77b7cb5355197116c1711327') in 0.009392 seconds
+  Import took 0.011817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000712 seconds.
+  path: Assets/Metal textures pack/pattern 03/diffuse.tga
+  artifactKey: Guid(fe2a0c89a1db804408d0ce437e3d2f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 03/diffuse.tga using Guid(fe2a0c89a1db804408d0ce437e3d2f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650f5b8e2b6382264e134d1cd89695a2') in 0.009278 seconds
+  Import took 0.012699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001800 seconds.
+  path: Assets/Metal textures pack/pattern 06/diffuse.tga
+  artifactKey: Guid(6d99e25c326018247a9a64d77c7f2182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 06/diffuse.tga using Guid(6d99e25c326018247a9a64d77c7f2182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982e6c15fde80183bee4675970d9af18') in 0.010097 seconds
+  Import took 0.013013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Metal textures pack/pattern 19/normal.tga
+  artifactKey: Guid(e6728cfe016fdcf46976dd9ae81787ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 19/normal.tga using Guid(e6728cfe016fdcf46976dd9ae81787ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ee1241ce98d3bebcd2a8cf6585b8e5') in 0.011278 seconds
+  Import took 0.014437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Metal textures pack/pattern 42/normal.tga
+  artifactKey: Guid(99a869a33120c2c42bf93a499d6030f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 42/normal.tga using Guid(99a869a33120c2c42bf93a499d6030f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '709bc46c1f1ab07c7ecfe62ee8f30f00') in 0.011077 seconds
+  Import took 0.013212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Metal textures pack/pattern 33/diffuse.tga
+  artifactKey: Guid(888b6b0ed7308e443b36a063ec5145db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 33/diffuse.tga using Guid(888b6b0ed7308e443b36a063ec5145db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fe0bbe975a1fde634349d45c8e7b5e5') in 0.022247 seconds
+  Import took 0.024515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Metal textures pack/pattern 27/diffuse.tga
+  artifactKey: Guid(8b49dcf0d7ef75b44bfd5db35dab7da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 27/diffuse.tga using Guid(8b49dcf0d7ef75b44bfd5db35dab7da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8a1f6244f91f7780cf31003971b1221') in 0.009138 seconds
+  Import took 0.011703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Metal textures pack/pattern 28/diffuse.tga
+  artifactKey: Guid(9250723e51492364abb4f24680a3a5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 28/diffuse.tga using Guid(9250723e51492364abb4f24680a3a5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d0110eafb2894fed61266631c979d1') in 0.009841 seconds
+  Import took 0.012208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Metal textures pack/pattern 05/diffuse.tga
+  artifactKey: Guid(003e5214091340640b70531cdba2a937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 05/diffuse.tga using Guid(003e5214091340640b70531cdba2a937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7701397d0bdd63295a3fbe6b5f32fb05') in 0.010146 seconds
+  Import took 0.012439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.753046 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7626d33cb5a4e60d0ae3df4d2f7adf84') in 0.003881 seconds
+  Import took 0.006202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 377.307121 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d32893a2eed0287d9f995e6296bbc8c') in 0.003397 seconds
+  Import took 0.005789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.948122 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e84f17cab7e4ac14a8ea8fd97dbc1a89') in 0.004205 seconds
+  Import took 0.006941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 550.869653 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d805e7ef437d7f06dc1052a6f4f1f6b') in 0.005000 seconds
+  Import took 0.008652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 230.009919 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc7b56ca1130d7c3c23fd31f875fb59') in 0.003557 seconds
+  Import took 0.008341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 282.960508 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b9563074019b57afb929ee480bb1e6') in 0.008929 seconds
+  Import took 0.011938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 207.970683 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a2e5e28444f622cda73cb49972675b') in 0.012663 seconds
+  Import took 0.025335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 627.291816 seconds.
+  path: Assets/L5/L5_Unlit.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_Unlit.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11f5d56a085953d019fad1e91e96d82') in 0.005051 seconds
+  Import took 0.008929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.018319 seconds.
+  path: Assets/L5/L5_1.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_1.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88abc5f6c0ace9c479834aceef4bfbff') in 0.011671 seconds
+  Import took 0.016486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.418925 seconds.
+  path: Assets/L5/Materials/Metal Texture.mat
+  artifactKey: Guid(70e901267b135ff419572abba79f7c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/Materials/Metal Texture.mat using Guid(70e901267b135ff419572abba79f7c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a953e33219d584856a59db219d4708') in 0.021789 seconds
+  Import took 0.024585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.392516 seconds.
+  path: Assets/L5/L5_2.shader
+  artifactKey: Guid(df7051e42efd6024585627c6ff163ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_2.shader using Guid(df7051e42efd6024585627c6ff163ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33f0f7148559f1b7dceb7452388d19a') in 0.003195 seconds
+  Import took 0.005239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.997729 seconds.
+  path: Assets/L5/L5_2.mat
+  artifactKey: Guid(2db9c0096519cf2439ac87eed4335a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_2.mat using Guid(2db9c0096519cf2439ac87eed4335a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a0158870f849563100cd968e2d6cee') in 0.011643 seconds
+  Import took 0.014870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.813568 seconds.
+  path: Assets/L5/L5_2.shader
+  artifactKey: Guid(df7051e42efd6024585627c6ff163ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_2.shader using Guid(df7051e42efd6024585627c6ff163ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fbbb7d699994fd50ff5ad343c283fe') in 0.006361 seconds
+  Import took 0.008664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 283.198251 seconds.
+  path: Assets/L5/L5_2.shader
+  artifactKey: Guid(df7051e42efd6024585627c6ff163ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_2.shader using Guid(df7051e42efd6024585627c6ff163ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7364bd1780f214a6616e3a58be55bd9') in 0.004236 seconds
+  Import took 0.007265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.729762 seconds.
+  path: Assets/L5/L5_2.mat
+  artifactKey: Guid(2db9c0096519cf2439ac87eed4335a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_2.mat using Guid(2db9c0096519cf2439ac87eed4335a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e2aebf7283eb80e6594279916a6aa5') in 0.021586 seconds
+  Import took 0.037735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.543644 seconds.
+  path: Assets/Metal textures pack/pattern 21/normal.tga
+  artifactKey: Guid(c609c65887e98af49a4f8a7cb3c4299a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 21/normal.tga using Guid(c609c65887e98af49a4f8a7cb3c4299a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb9c598a59d86ba38cc9c450ff68c603') in 0.007376 seconds
+  Import took 0.009491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Metal textures pack/pattern 20/normal.tga
+  artifactKey: Guid(c8ba017bb1982e941a3c9e6cf91c2adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 20/normal.tga using Guid(c8ba017bb1982e941a3c9e6cf91c2adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd35d0e9690145c642de9bb6c536cf9a2') in 0.007850 seconds
+  Import took 0.009804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038069 seconds.
+  path: Assets/Metal textures pack/pattern 18/normal.tga
+  artifactKey: Guid(d8c36ae8a459429428e6b7d7cd82f9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 18/normal.tga using Guid(d8c36ae8a459429428e6b7d7cd82f9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c713b7dac1c8981f345fc5ae9a90ce') in 0.013898 seconds
+  Import took 0.015913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Metal textures pack/pattern 06/normal.tga
+  artifactKey: Guid(78539658ce7970846941febcb6b6ef79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 06/normal.tga using Guid(78539658ce7970846941febcb6b6ef79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c092b66eca30face772243734d2c3e83') in 0.011667 seconds
+  Import took 0.013574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Metal textures pack/pattern 41/normal.tga
+  artifactKey: Guid(91bc4730324e4cf4d866c77b53517932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 41/normal.tga using Guid(91bc4730324e4cf4d866c77b53517932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0bc36d79956f10c5463a1b0a7ab4ee9') in 0.008883 seconds
+  Import took 0.011088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Metal textures pack/pattern 18/normal.tga
+  artifactKey: Guid(d8c36ae8a459429428e6b7d7cd82f9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 18/normal.tga using Guid(d8c36ae8a459429428e6b7d7cd82f9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c713b7dac1c8981f345fc5ae9a90ce') in 0.007782 seconds
+  Import took 0.009897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Metal textures pack/pattern 04/normal.tga
+  artifactKey: Guid(627a1335b8727c348ac4edeb052e8423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 04/normal.tga using Guid(627a1335b8727c348ac4edeb052e8423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3cb69e088492b9617253075737b590') in 0.009089 seconds
+  Import took 0.011441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Metal textures pack/pattern 05/normal.tga
+  artifactKey: Guid(984a0d4933c99ab4db68d1d547fd0166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 05/normal.tga using Guid(984a0d4933c99ab4db68d1d547fd0166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c1c2676317e8e8e69213aa14b82f8a') in 0.014189 seconds
+  Import took 0.016419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Metal textures pack/pattern 07/normal.tga
+  artifactKey: Guid(7eeca9d8c8be1cf408c709859168a5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 07/normal.tga using Guid(7eeca9d8c8be1cf408c709859168a5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '852a3e68648f910d47b19f5f7e6a3481') in 0.012299 seconds
+  Import took 0.014464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Metal textures pack/pattern 03/normal.tga
+  artifactKey: Guid(1e1dd049614ab114c964d06be44cc7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 03/normal.tga using Guid(1e1dd049614ab114c964d06be44cc7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e974ef0f3ee82ce400ea39b1da8058fd') in 0.010208 seconds
+  Import took 0.012277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118609 seconds.
+  path: Assets/Metal textures pack/pattern 08/normal.tga
+  artifactKey: Guid(fb1c9762ffb56614e8b268bc68a62636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 08/normal.tga using Guid(fb1c9762ffb56614e8b268bc68a62636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187aea4973431316c6660752eb5d059e') in 0.008254 seconds
+  Import took 0.010596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Metal textures pack/pattern 11/normal.tga
+  artifactKey: Guid(0a108785c5a5cef4bbdfdb5a0609b24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 11/normal.tga using Guid(0a108785c5a5cef4bbdfdb5a0609b24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32872b5a84748510c8b083bbc8e9c27') in 0.007451 seconds
+  Import took 0.010734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Metal textures pack/pattern 09/normal.tga
+  artifactKey: Guid(6e41f68cfa3b8e04c81baa9e9a4cbc3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 09/normal.tga using Guid(6e41f68cfa3b8e04c81baa9e9a4cbc3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e023a08e18d23c90616fb27e19e16f') in 0.008559 seconds
+  Import took 0.011124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Metal textures pack/pattern 10/normal.tga
+  artifactKey: Guid(8c32659b85509e243af7fdea906f601f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 10/normal.tga using Guid(8c32659b85509e243af7fdea906f601f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c52c2ba02abaa0beba5362a520ad25') in 0.010401 seconds
+  Import took 0.012854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008880 seconds.
+  path: Assets/Metal textures pack/pattern 17/normal.tga
+  artifactKey: Guid(c3f5592491331b84191a4b511d11f91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 17/normal.tga using Guid(c3f5592491331b84191a4b511d11f91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bbafa8a8718f6b1ebccf9505d15c35a') in 0.012539 seconds
+  Import took 0.014716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Metal textures pack/pattern 16/normal.tga
+  artifactKey: Guid(8c6577e60e7c1224087977c7b0b2baad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 16/normal.tga using Guid(8c6577e60e7c1224087977c7b0b2baad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41010a59e4efec6f61a4ee65a73b5d4') in 0.008953 seconds
+  Import took 0.011526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Metal textures pack/pattern 15/normal.tga
+  artifactKey: Guid(b4fb84282cad90840a8a2bb7cad92fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Metal textures pack/pattern 15/normal.tga using Guid(b4fb84282cad90840a8a2bb7cad92fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7e5ebf08d8539d65e033b3627dfced') in 0.010987 seconds
+  Import took 0.013044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2914.000358 seconds.
+  path: Assets/L5/Knot 3.glb
+  artifactKey: Guid(b98582a993b57b242a8b553961509c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/Knot 3.glb using Guid(b98582a993b57b242a8b553961509c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b35747ecc37603886c435bcc9460b01') in 0.023293 seconds
+  Import took 0.025814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 208.899438 seconds.
+  path: Assets/L5/Knot.fbx
+  artifactKey: Guid(772062edc51fec243b97f2f37200d4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/Knot.fbx using Guid(772062edc51fec243b97f2f37200d4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67fa0dd14d0b82c086f8d496093fb467') in 0.075558 seconds
+  Import took 0.077592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 455.596661 seconds.
+  path: Assets/L5/Materials/Metal Texture.mat
+  artifactKey: Guid(70e901267b135ff419572abba79f7c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/Materials/Metal Texture.mat using Guid(70e901267b135ff419572abba79f7c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3791f4aec91f32e8a96d0d906640c2a6') in 0.015584 seconds
+  Import took 0.017996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 207.925373 seconds.
+  path: Assets/L5/L5_1.shader
+  artifactKey: Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_1.shader using Guid(80a49c030199c39428b22ba93b7a986f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74049ae62fcd5bfad26f7643cc3db1a0') in 0.007539 seconds
+  Import took 0.009924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.511661 seconds.
+  path: Assets/L5/L5_3.mat
+  artifactKey: Guid(bc25acdb0ec181843a43d01ff6509e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_3.mat using Guid(bc25acdb0ec181843a43d01ff6509e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b8e6fc00f422ebe6742d32c5e3b4189') in 0.019934 seconds
+  Import took 0.022269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.494277 seconds.
+  path: Assets/L5/L5_3.shader
+  artifactKey: Guid(0b5dd383466bf794dae6ae711179fb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_3.shader using Guid(0b5dd383466bf794dae6ae711179fb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '089218c59f35ae568b3ee3099a8836a5') in 0.003327 seconds
+  Import took 0.005626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.165623 seconds.
+  path: Assets/L5/L5_3.shader
+  artifactKey: Guid(0b5dd383466bf794dae6ae711179fb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_3.shader using Guid(0b5dd383466bf794dae6ae711179fb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f96a3249e1c23a81fbe08adfb6b4f9') in 0.008439 seconds
+  Import took 0.012283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 479.083588 seconds.
+  path: Assets/L5/pexels-photo.jpg
+  artifactKey: Guid(9943a439061f1d44fa4c8e85f8c98cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/pexels-photo.jpg using Guid(9943a439061f1d44fa4c8e85f8c98cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615c4175195c24847623522d8257e097') in 0.020269 seconds
+  Import took 0.022796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1422.781479 seconds.
+  path: Assets/L5/L5_3.shader
+  artifactKey: Guid(0b5dd383466bf794dae6ae711179fb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_3.shader using Guid(0b5dd383466bf794dae6ae711179fb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82fe754e98eb180cfedb946bdc451ba1') in 0.005803 seconds
+  Import took 0.008697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.421675 seconds.
+  path: Assets/L5/L5_3.shader
+  artifactKey: Guid(0b5dd383466bf794dae6ae711179fb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L5/L5_3.shader using Guid(0b5dd383466bf794dae6ae711179fb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '386867cf21b2a685bfa4edc52ccc15db') in 0.005301 seconds
+  Import took 0.007855 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
