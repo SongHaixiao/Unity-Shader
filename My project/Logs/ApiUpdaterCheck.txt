@@ -1,0 +1,50 @@
+[api-updater (non-obsolete-error-filter)] 8/6/2021 9:29:12 AM : Starting /Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 169.14ms
+moved types parse time: 143ms
+candidates parse time : 5ms
+C# parse time         : 635ms
+candidates check time : 320ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/6/2021 9:29:44 AM : Starting /Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 168.307ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 553ms
+candidates check time : 121ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/6/2021 9:40:08 AM : Starting /Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 176.036ms
+moved types parse time: 140ms
+candidates parse time : 5ms
+C# parse time         : 548ms
+candidates check time : 265ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/7/2021 10:11:50 AM : Starting /Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 268.958ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 630ms
+candidates check time : 401ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/7/2021 10:21:06 AM : Starting /Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.05ms
+moved types parse time: 146ms
+candidates parse time : 5ms
+C# parse time         : 678ms
+candidates check time : 444ms
+console write time    : 1ms
+

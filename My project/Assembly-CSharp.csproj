@@ -47,9 +47,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\VehicleSystemFree\Scripts\VehicleFree.cs" />
-     <Compile Include="Assets\VehicleSystemFree\Scenes\Script\DestroyObjectFree.cs" />
+     <Compile Include="Assets\asoliddev - Car Maker\Scripts\CarSettings.cs" />
+     <Compile Include="Assets\asoliddev - Car Maker\Scripts\CarCamera.cs" />
      <Compile Include="Assets\L8_2\Roate.cs" />
+     <Compile Include="Assets\asoliddev - Car Maker\Scripts\CarControler.cs" />
+     <Compile Include="Assets\asoliddev - Car Maker\Scripts\CarCameraSettings.cs" />
+     <Compile Include="Assets\asoliddev - Car Maker\Scripts\WheelAxle.cs" />
+     <Compile Include="Assets\asoliddev - Car Maker\Scripts\CarMaker.cs" />
      <None Include="Assets\L4\L4.shader" />
      <None Include="Assets\L5\L5_1.shader" />
      <None Include="Assets\L8_2\L8_MaskStencil.shader" />
