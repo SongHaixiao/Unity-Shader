@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/L9.unity
+- path: Assets/L12/Mini Legion Footman PBR HP Polyart/Scenes/AllUnits.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

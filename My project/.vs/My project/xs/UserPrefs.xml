@@ -1,12 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/L6/L6_1.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/L10/L10_CelShading1.shader">
     <Files>
-      <File FileName="Assets/L6/L6_1.shader" Line="14" Column="1" />
+      <File FileName="Assets/L10/L10_CelShading1.shader" Line="26" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Ludiq.Peek.Editor PreferredExecutionTarget="e4dba972-d5a8-47c6-84c3-c912a845a2bd" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="87929019-4948-491d-a6a8-a4afce17b3e5" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

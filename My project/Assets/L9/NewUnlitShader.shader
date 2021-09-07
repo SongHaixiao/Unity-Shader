@@ -25,7 +25,7 @@ Shader "Unlit/NewUnlitShader"
                 float2 uv : TEXCOORD0;
             };
 
-            struct v2f
+            struct v2f  // 顶点着色器
             {
                 float2 uv : TEXCOORD0;
                 UNITY_FOG_COORDS(1)     // 3. Fog 宏 : Declares the fog data interpolater.
@@ -40,7 +40,7 @@ Shader "Unlit/NewUnlitShader"
                 v2f o;
                 o.vertex = UnityObjectToClipPos(v.vertex);
                 o.uv = TRANSFORM_TEX(v.uv, _MainTex);
-                UNITY_TRANSFER_FOG(o,o.vertex); // 4. Fog宏 : Ouputs fog data from the vertes shader
+                UNITY_TRANSFER_FOG(o,o.vertex); // 4. Fog宏 : Ouputs fog factor data from the vertes shader
                 return o;
             }
 

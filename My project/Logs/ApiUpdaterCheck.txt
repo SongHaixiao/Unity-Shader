@@ -48,3 +48,33 @@ C# parse time         : 678ms
 candidates check time : 444ms
 console write time    : 1ms
 
+[api-updater (non-obsolete-error-filter)] 9/5/2021 4:35:53 AM : Starting /Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.955ms
+moved types parse time: 140ms
+candidates parse time : 5ms
+C# parse time         : 459ms
+candidates check time : 104ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 4:37:05 AM : Starting /Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.763ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 476ms
+candidates check time : 102ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 4:37:18 AM : Starting /Users/benjiaminsong/Unity/2020.3.15f2/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 163.658ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 478ms
+candidates check time : 112ms
+console write time    : 1ms
+
